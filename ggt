@@ -1,0 +1,23 @@
+:root {
+  --background: url("C:\Users\nikit\Downloads\USP.jpg");
+  --font:                       "Inter";
+  --transparencyalpha:          0.7;
+  --transparencycolor:			    0,0,0;
+	--messagetransparency:			  0;
+	--guildchanneltransparency:		0;
+	--chatinputtransparency:		  0;
+	--memberlisttransparency:		  0.3;
+	--accentcolor:					      144,0,32,0.6;
+}
+
+.theme-dark {
+  --text-normal:                #ffffff;
+  --text-muted:                 #ffffff;
+  --header-primary:             #8b05b4;
+  --channels-default:           #8b05b4;
+  --header-secondary:           #8b05b4;
+  --interactive-normal:         #e1d4e6;
+  --interactive-hover:          #ffffff;
+  --interactive-active:         #ffffff;
+  --background-modifier-accent: #fff2;
+}
